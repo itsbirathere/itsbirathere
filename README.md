@@ -7,11 +7,8 @@
 
 ### 🌐 Connect with me
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="www.linkedin.com/in/biratkhanal04" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square" />
-  </a>
-  <a href="https://instagram.com/your-instagram" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&style=flat-square" />
   </a>
 </p>
 
@@ -19,7 +16,7 @@
 
 ### 🛠 Languages and Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nestjs,java,cpp,html,css,git,github,docker,mongodb,mysql,postgres,linux" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nestjs,cpp,html,css,git,github,docker,mongodb,mysql,postgres,linux" />
 </p>
 
 ---
@@ -31,9 +28,3 @@
 
 ---
 
-### 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=itsbirathere&show_icons=true&theme=dark&hide_border=true" />
-</p>
-
----
