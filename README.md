@@ -37,11 +37,3 @@
 </p>
 
 ---
-
-### 📌 Popular Repositories
-<p>
-  <a href="https://github.com/itsbirathere/REPO_NAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsbirathere&repo=REPO_NAME&theme=dark&hide_border=true" />
-  </a>
-</p>
-<img width="895" height="599" alt="image" src="https://github.com/user-attachments/assets/c202f0d7-1821-4195-ad69-2287d3e8c160" />
