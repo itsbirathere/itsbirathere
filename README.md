@@ -1,4 +1,3 @@
-<img align="right" width="350" src="https://raw.githubusercontent.com/itsbirathere/itsbirathere/main/dev.png" />
 
 <h1 align="center">Hi 👋, I'm Birat</h1>
 <h3 align="center">A passionate software developer from Nepal 🇳🇵</h3>
